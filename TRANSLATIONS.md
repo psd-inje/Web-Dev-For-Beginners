@@ -2,6 +2,8 @@
 
 We welcome translations for the lessons in this curriculum!
 
+ㅁㄴㅇㄹㄴㅇ
+
 ## Guidelines
 
 There are [**translations**](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages/translations) folders which contain the translated markdown files.
